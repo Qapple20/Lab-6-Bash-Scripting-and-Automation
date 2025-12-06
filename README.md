@@ -22,20 +22,26 @@ Tools Used
 Steps
 
 1. Displayed a case-based Bash script menu that allows users to select different scanning and security automation options interactively
+
    <img width="468" height="251" alt="image" src="https://github.com/user-attachments/assets/acb71d0f-bf38-4f60-9ac0-62f97f45afbb" />
 
-2. Demonstrated a continuous monitoring loop that checks the SSH service at timed intervals, simulating basic SOC style service monitoring
+3. Demonstrated a continuous monitoring loop that checks the SSH service at timed intervals, simulating basic SOC style service monitoring
+
 
    <img width="468" height="470" alt="image" src="https://github.com/user-attachments/assets/7ffc5696-5b4d-4d06-8261-29550e75df90" />
 
-4. Executed a modular Bash script that uses reusable functions for host discovery, scanning, and automated report generation
+5. Executed a modular Bash script that uses reusable functions for host discovery, scanning, and automated report generation
+
    <img width="468" height="255" alt="image" src="https://github.com/user-attachments/assets/e4ce7048-76de-4df2-a49c-44781f5b016a" />
 
-5. Generated an automated security analysis report summarizing system activity and authentication anomalies detected by the script
+7. Generated an automated security analysis report summarizing system activity and authentication anomalies detected by the script
+
    <img width="468" height="270" alt="image" src="https://github.com/user-attachments/assets/22f94170-6a1e-4786-925f-769b0ec11e22" />
 
-6. Ran a network reconnaissance script that performed host discovery, port scanning, and structured output logging
-    <img width="468" height="178" alt="image" src="https://github.com/user-attachments/assets/b74883fd-cb66-4520-8147-b27351d6fc5b" />
+9. Ran a network reconnaissance script that performed host discovery, port scanning, and structured output logging
 
-7. Executed a real-time security monitoring script that detects suspicious processes, failed login patterns, and abnormal system behavior
-    <img width="468" height="108" alt="image" src="https://github.com/user-attachments/assets/31ddd0b9-556d-4bec-99a6-3adc9969110d" />
+   <img width="468" height="178" alt="image" src="https://github.com/user-attachments/assets/b74883fd-cb66-4520-8147-b27351d6fc5b" />
+
+11. Executed a real-time security monitoring script that detects suspicious processes, failed login patterns, and abnormal system behavior
+
+   <img width="468" height="108" alt="image" src="https://github.com/user-attachments/assets/31ddd0b9-556d-4bec-99a6-3adc9969110d" />
